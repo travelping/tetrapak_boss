@@ -1,10 +1,10 @@
 # Usage
 
-Install tetrapak ( https://github.com/liveforeverx/tetrapak/ )
+Install tetrapak ( https://github.com/travelping/tetrapak/ )
 
 Install plugin
 
-    $ git clone https://github.com/liveforeverx/tetrapak_boss/
+    $ git clone https://github.com/travelping/tetrapak_boss/
     $ cd tetrapak_boss
     $ tetrapak build
     $ ensure, that tetrapak_boss is in folder, that are in ERL_LIBS configuration
